@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_1SL5" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">Menu</Translation>
+      </Text>
+      <Text Id="__SingleUse_QU5D" Alignment="Left" TypographyId="Typography_04">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_3F64" Alignment="Left" TypographyId="Typography_04">
+        <Translation Language="GB">Frequency</Translation>
+      </Text>
+      <Text Id="__SingleUse_P81P" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">Sine</Translation>
+      </Text>
+      <Text Id="__SingleUse_JZ1P" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">Offset</Translation>
+      </Text>
+      <Text Id="__SingleUse_UCTL" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">Amp</Translation>
+      </Text>
+      <Text Id="__SingleUse_8WEH" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_0I5S" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">Freq</Translation>
+      </Text>
+      <Text Id="__SingleUse_S9UP" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">CH</Translation>
+      </Text>
+      <Text Id="__SingleUse_EQLX" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Square Wave</Translation>
+      </Text>
+      <Text Id="__SingleUse_9XLS" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">TrangularWave</Translation>
+      </Text>
+      <Text Id="__SingleUse_HSMS" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Sine Wave</Translation>
+      </Text>
+      <Text Id="__SingleUse_ASPP" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Arbitrary Wave</Translation>
+      </Text>
+      <Text Id="list_element_00" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Square Wave</Translation>
+      </Text>
+      <Text Id="__SingleUse_CU8Z" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_21DC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5SGQ" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VM1M" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YXW8" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9C8O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q2DI" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">AWG</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="RobotoCondensed-Regular.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="-., 0123456789" />
+    <Typography Id="Large" Font="RobotoCondensed-Regular.ttf" Size="39" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="LBRITEI.TTF" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_01" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_02" Font="RobotoCondensed-Regular.ttf" Size="15" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_03" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_04" Font="RobotoCondensed-Regular.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_05" Font="RobotoCondensed-Regular.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

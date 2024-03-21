@@ -1,0 +1,3 @@
+D:/SD_Experiments/SD_CARD_1/TouchGFX/gui/src/model/Model.cpp:19:1:Model::Model()	1
+D:/SD_Experiments/SD_CARD_1/TouchGFX/gui/src/model/Model.cpp:24:6:void Model::tick()	1
+D:/SD_Experiments/SD_CARD_1/TouchGFX/gui/src/model/Model.cpp:28:6:void Model::loaddata(char*)	3

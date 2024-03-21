@@ -1,0 +1,17 @@
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:67:6:HAL_MspInit	1
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:92:6:HAL_CRC_MspInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:114:6:HAL_CRC_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:136:6:HAL_DMA2D_MspInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:161:6:HAL_DMA2D_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:186:6:HAL_I2C_MspInit	3
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:232:6:HAL_I2C_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:263:6:HAL_LTDC_MspInit	3
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:380:6:HAL_LTDC_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:449:6:HAL_QSPI_MspInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:512:6:HAL_QSPI_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:549:6:HAL_SD_MspInit	5
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:656:6:HAL_SD_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:698:6:HAL_UART_MspInit	3
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:753:6:HAL_UART_MspDeInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:886:6:HAL_SDRAM_MspInit	2
+D:/SD_Experiments/SD_CARD_1/Core/Src/stm32f7xx_hal_msp.c:972:6:HAL_SDRAM_MspDeInit	2

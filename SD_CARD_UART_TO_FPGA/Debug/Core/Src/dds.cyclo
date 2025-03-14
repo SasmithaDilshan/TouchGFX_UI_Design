@@ -1,0 +1,4 @@
+../Core/Src/dds.c:14:19:write_DDS_register	2
+../Core/Src/dds.c:39:8:min_freq	1
+../Core/Src/dds.c:44:8:f_to_n	1
+../Core/Src/dds.c:61:8:generate_configuration	6
